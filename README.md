@@ -1,1 +1,1 @@
-"# Blogiz" 
+"# blog_next"
